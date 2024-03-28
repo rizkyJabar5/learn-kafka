@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: rrk.server.local:9092
+
+  application:
+    name: credit-card-numbers
+
+server:
+  port: 8484
